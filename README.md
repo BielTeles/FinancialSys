@@ -17,19 +17,22 @@ Objetivo:
 
 
 Especificação:
+
        Em linhas gerais, basta que o sistema cumpra os requisitos apresentados, não sendo necessária preocupação com os casos inesperados, apresentação (visual), etc.
 
 
 
 Tecnologias:
-       Quaisquer*, bastando que o sistema final ofereça as funcionalidades descritas a seguir. Ainda, não é obrigatório utilizar banco de dados, podendo-se manter os dados em memória da maneira que bem entender.
-       
-       Caso não tenha preferência por alguma stack tecnológica, sugerimos utilizar a nossa atual: .NET com C# para o back-end e React com Typescript para o front-end.
-       
-       * Preferencialmente alguma tecnologia web, se possível utilizando arquitetura MVC. Caso não tenha experiência com nenhuma, uma aplicação de linha de comando basta.
+
+        Quaisquer*, bastando que o sistema final ofereça as funcionalidades descritas a seguir. Ainda, não é obrigatório utilizar banco de dados, podendo-se manter os dados em memória da maneira que bem entender.
+        
+         Caso não tenha preferência por alguma stack tecnológica, sugerimos utilizar a nossa atual: .NET com C# para o back-end e React com Typescript para o front-end.
+         
+         * Preferencialmente alguma tecnologia web, se possível utilizando arquitetura MVC. Caso não tenha experiência com nenhuma, uma aplicação de linha de comando basta.
 
 
 Funcionalidades:
+
       Cadastro de pessoas: 
       
       Deverá ser implementado um cadastro contendo as funcionalidades básicas de gerenciamento: criação, deleção e listagem.
